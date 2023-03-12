@@ -4,3 +4,6 @@ The aim of this project is preparing analysis of Boston Airbnb data, getting to 
 It is the part of Udacity nanodegree. 
 
 Used libraries:
+- Numpy
+- Pandas 
+- Matplotlib
