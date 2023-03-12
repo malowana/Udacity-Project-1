@@ -7,3 +7,6 @@ Used libraries:
 - Numpy
 - Pandas 
 - Matplotlib
+
+
+Results were presented on [Medium](https://medium.com/@malowana1994/exploring-amsterdam-airbnb-data-c1c35fc3001)
