@@ -8,5 +8,5 @@ Used libraries:
 - Pandas 
 - Matplotlib
 
-
+Link to [Jupyter Notebook](https://github.com/malowana/Udacity-Project-1/blob/main/Udacity_Project_1.ipynb)
 Results were presented on [Medium](https://medium.com/@malowana1994/exploring-amsterdam-airbnb-data-c1c35fc3001)
